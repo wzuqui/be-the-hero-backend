@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^13.9.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.20.13",

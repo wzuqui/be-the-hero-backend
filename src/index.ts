@@ -9,4 +9,5 @@ app.use(express.json());
 app.use(routes);
 
 const PORT = process.env.PORT || 3333;
+console.log(PORT);
 app.listen(PORT);
